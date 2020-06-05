@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/check.dir/tests/test1.cpp.o  -o check  -L/home/user/Skvortsovvv/workspace/projects/lab05/_build/CMakeFiles/print.dir -Wl,-rpath,/home/user/Skvortsovvv/workspace/projects/lab05/_build/CMakeFiles/print.dir libprint.a third-party/gtest/googlemock/gtest/libgtest_main.a third-party/gtest/googlemock/gtest/libgtest.a -pthread 
